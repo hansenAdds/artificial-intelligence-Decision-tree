@@ -5,7 +5,7 @@ this is the assignment about decision tree
 
 this file is wrote by c++
 
-代码被编译通过C++
+代码实现通过C++
 
 there are mutipul train data and predict data
 
